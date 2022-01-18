@@ -1,0 +1,23 @@
+11 21
+Tours Orleans 118
+Tours LeMans 99
+LeMans Orleans 193
+LeMans Paris 208
+Orleans Rouen 240
+LeMans Rouen 211
+Orleans Paris 132
+Orleans Auxerre 169
+Auxerre Troyes 75
+Paris Troyes 178
+Troyes Reims 126
+Paris Reims 144
+Paris Rouen 136
+Paris Amiens 163
+Rouen Amiens 120
+Reims Amiens 175
+Rouen Calais 215
+Calais Amiens 157
+Calais Lille 113
+Amiens Lille 140
+Lille Reims 206
+Orleans Troyes 210
